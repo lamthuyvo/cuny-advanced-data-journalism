@@ -1,0 +1,25 @@
+naics_sector,naics_sector_rollup,naics_supersector,naics_sector_name,avg_hrly_earnings,total_employment,women_percentage,source
+11,11,,"Agriculture, Forestry, Fishing and Hunting",14.33,416.6,0.224,"oes,cps"
+21,21,10,"Mining, Quarrying, and Oil and Gas Extraction",32.95,610.2,0.15175352343493934,ces
+22,22,40,Utilities,38.35,555.9,0.23277567907897107,ces
+23,23,20,Construction,25.3,6687.38,0.12501858183439868,"oes,ces_supersector"
+31,31,30,Manufacturing,24.39,12337.52,0.27453365774533656,"oes,ces_supersector"
+32,31,30,Manufacturing,24.39,12337.52,0.27453365774533656,"oes,ces_supersector"
+33,31,30,Manufacturing,24.39,12337.52,0.27453365774533656,"oes,ces_supersector"
+42,42,40,Wholesale Trade,29.73,5877.5,0.2961803487877499,ces
+44,44,40,Retail Trade,15.44,15982.52,0.4066320181538687,"oes,ces_supersector"
+45,44,40,Retail Trade,15.44,15982.52,0.4066320181538687,"oes,ces_supersector"
+48,48,40,Transportation and Warehousing,22.57,5606.18,0.4066320181538687,"oes,ces_supersector"
+49,48,40,Transportation and Warehousing,22.57,5606.18,0.4066320181538687,"oes,ces_supersector"
+51,51,50,Information,34.86,2762.09,0.4002153625269203,"oes,ces_supersector"
+52,52,55,Finance and Insurance,33.5,6167.0,0.5682364247957713,"oes,ces,ces_supersector"
+53,53,55,Real Estate and Rental and Leasing,22.4,2156.5,0.5682364247957713,"oes,ces,ces_supersector"
+54,54,60,"Professional, Scientific, and Technical Services",39.77,8956.5,0.465237536984313,ces
+55,55,60,Management of Companies and Enterprises,38.41,2246.5,0.48283997329178724,ces
+56,56,60,Administrative and Support and Waste Management and Remediation Services,19.57,9076.1,0.42563435836978436,ces
+61,61,65,Educational Services,26.03,3587.1,0.6136990884001003,"oes,ces"
+62,62,65,Health Care and Social Assistance,26.11,19157.9,0.8002808240986746,ces
+71,71,70,"Arts, Entertainment, and Recreation",20.91,2235.2,0.4714119541875448,ces
+72,72,70,Accommodation and Food Services,14.1,13449.2,0.5272729976504178,ces
+81,81,80,Other Services (except Public Administration),19.41,4078.8,0.5255781359495445,"oes,ces_supersector"
+92,92,90,Public Administration,28.26,5101.0,0.5373456185061752,"oes,ces"
