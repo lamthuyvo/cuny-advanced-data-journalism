@@ -1,0 +1,14 @@
+participant_id,empty_column,missing_values,missing_values_2,placeholder_values,placeholder_values_2
+11202,,1,4.5,8,2
+23423,,1,4.2,NO_DATA,5
+,,,,,
+43029,,0,3.7,4,ASK_LATER
+30400,,1,,9,2
+60495,,0,4.4,NO_DATA,2
+12321,,1,3.2,3,ASK_LATER
+23090,,1,2.1,NO_DATA,1
+99230,,,3.2,2,4
+23432,,0,,7,6
+21233,,1,2.1,NO_DATA,8
+84390,,,2.4,2,3
+93904,,1,2.8,NO_DATA,0
