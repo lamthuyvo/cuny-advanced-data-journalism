@@ -43,6 +43,8 @@ exercise-files/jupyter_notebooks/project_folder/venv
 exercise-files/pandas/advanced_pandas/data/iranian_tweets_csv_hashed.csv
 exercise-files/pandas/advanced_pandas/venv
 exercise-files/pandas/introduction_pandas/data/askscience_submissions.csv
+exercise-files/pandas/time_series_with_pandas/data/iranian_tweets_csv_hashed.csv
+exercise-files/pandas/data_analysis_with_pandas/data/askscience_submissions.csv
 
 exercise-files/scrapers/venv
 exercise-files/scrapers/data/youtube-api-key.txt
