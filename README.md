@@ -296,7 +296,7 @@ _November 20, 2019_
 
 **Lecture:** [Understanding data with visuals](https://docs.google.com/presentation/d/1Adt6X3lkdqt-njRlbIrIh-MR6fVbtN2djMWtxdQrePs/edit?usp=sharing)
 
-**Hands-on:** Resampling data and plotting it with pandas and Matplotlib_ _
+**Hands-on:** [Resampling data and plotting it with pandas and Matplotlib](https://docs.google.com/presentation/d/1sTt9SqHEtklaUgR1geKbatF1l88Jk9PSKFOuId15aPM/edit?usp=sharing)
 
 **Reference:** _[Chapter 10: Measuring the Twitter Activity of Political Actors](https://docs.google.com/document/d/1HiwwLD_1ILxwtsFro4C81ThIB4WBwfZ4zNQr2xOlxTw/edit?usp=sharing)_
 
@@ -312,7 +312,7 @@ _November 27, 2019_
 
 
 
-**Lecture:** [When two become one - the power of merging data sets](https://docs.google.com/presentation/d/1AC__gqnCG1kXAbcXRMMSSJzyzRd3oMRcCWa8KC9MNRo/edit?usp=sharing)
+**Lecture:** [When two become one - the power of merging data sets](https://docs.google.com/presentation/d/19GvOkI4GozUGNHBl1wYSffSR9uJHczWvNADN1vZJ8nI/edit?usp=sharing)
 
 **Hands-on:** [Merging with Pandas](https://docs.google.com/presentation/d/1pLscuaeo1WkFhtlKNZgVdU_J1x0Q2wtuKxLuAZ5ttT4/edit?usp=sharing)
 
