@@ -42,7 +42,7 @@ In this course, you will build the skills you need to do data journalism:
 Most importantly, we want to focus on getting you the skills you need to find stories in data and be able to come to your editor with data-driven pitches.
 
 
-###**How the class works**
+### **How the class works**
 
 This is a hands-on course. Each lesson will focus on one or two of our expected outcomes, moving sequentially through the course. Lessons will include:
 
@@ -62,7 +62,7 @@ You will be expected to conduct the following work outside of the classroom:
 All the course materials will be shared by the instructors with the students on a Github and on Google Classroom.
 
 
-###**Tools**
+### **Tools**
 
 Some software is already installed on your laptop. Others, you will have to install on your own. The instructors will do an “install party” for this.
 
@@ -75,7 +75,7 @@ Some software is already installed on your laptop. Others, you will have to inst
 *   Python: includes Jupyter Notebooks, data analysis packages, package management tools, and environment manager to create virtual environments.
 
 
-##**Objective and outcomes**
+## **Objective and outcomes**
 
 The objective of this course is to train students in the fundamental skills to do data journalism and be ready to continue their training in the Advanced Data Journalism course.
 
@@ -96,7 +96,7 @@ At the end of this course you will be expected to be able to:
 *   Evaluate professional data stories (what makes a particular project successful or not?).
 
 
-##**Class Schedule**
+## **Class Schedule**
 
 Schedule is subject to be changed by instructors, depending on how well you are progressing. Any modifications will be announced by the instructors. The basic structure of each Lesson follows this rough outline:
 
@@ -113,14 +113,14 @@ Schedule is subject to be changed by instructors, depending on how well you are 
 _August 28, 2019_
 
 **What’s this course about: Internet data, technology and society**
- Introduction and syllabus overview | What is data journalism according to you, find 4 definitions
+
+Introduction and syllabus overview | What is data journalism according to you, find 4 definitions
 
 **Lecture**: [Introduction to the semester](https://docs.google.com/presentation/d/1LOjJbJjGIW0dqhfm6jyf2a50LQcc2WaFm2ijjBnPgf8/edit?usp=sharing) | [Fundamentals of web languages](https://docs.google.com/presentation/d/1eRNTxHixpWxD9gzRKLkztVjoPT3omYd7Ne61A9R2-dI/edit?usp=sharing)
 
-**Hands-on:** [Installation guide!](https://github.com/lamthuyvo/cuny-advanced-data-journalism/blob/master/exercises/lesson1/installation_party.md)
+**Hands-on:** [Installation guide! ](https://github.com/lamthuyvo/cuny-advanced-data-journalism/blob/master/exercise-files/installations/installation_party.md)
 
 **At home**:
-
 Homework 1:  What is data journalism according to you, find 4 definitions
 
 
@@ -130,25 +130,24 @@ Homework 1:  What is data journalism according to you, find 4 definitions
 
 
 
-#### Data Mining
+#### Data Mining {#data-mining}
 
 
-### 1.2 — Week 2  
+### 1.2 — Week 2
 
 _September 4, 2019_
 
 **Introduction to Python and the command line interface**
 
 
-**Lecture:**[Python in Journalism](https://docs.google.com/presentation/d/1m7dCJEcSHoK5Syri1FOWail4NOh_6mQaZnky7JwiEOY/edit?usp=sharing) The command-line tool, Python and the interactive shell
 
-**Hands-on:**[Introduction to Python basics](https://docs.google.com/presentation/d/1Yk9nQtDLSGS-2Jd-CP1BwIvUo74Bh3AAc3WR4GVjswg/edit?usp=sharing)****
+**Lecture:** [Python in Journalism](https://docs.google.com/presentation/d/1m7dCJEcSHoK5Syri1FOWail4NOh_6mQaZnky7JwiEOY/edit?usp=sharing) The command-line tool, Python and the interactive shell
 
-**Reference:**[Chapter 1: The Programming Languages You’ll Need to Know](https://drive.google.com/file/d/1jndF_40zvaZ2GFwQy0jDbmLh0iAENP4b/view?usp=sharing)
+**Hands-on: **[Introduction to Python basics](https://docs.google.com/presentation/d/1Yk9nQtDLSGS-2Jd-CP1BwIvUo74Bh3AAc3WR4GVjswg/edit?usp=sharing)** **
 
-**At home:**
+**Reference:** [Chapter 1: The Programming Languages You’ll Need to Know](https://drive.google.com/file/d/1jndF_40zvaZ2GFwQy0jDbmLh0iAENP4b/view?usp=sharing)
 
-Homework 2: Python Exercise
+**At home:** Homework 2: Python Exercise
 
 
 ### 1.3 — Week 3
@@ -158,57 +157,48 @@ _September 11, 2019_
 **Jupyter Notebooks — how to set them up (also: APIs and data structures)**
 
 
+
 **Lecture:** [Investigating the social web ](https://docs.google.com/presentation/d/1zijBZ2Jj-hpGugAHBmT1TxL0L2PctzQezk8h4GhKkBk/edit?usp=sharing)
 
-**Hands-on:** [Your first Jupyter Notebook](https://docs.google.com/presentation/d/19DcJj5yzceC3S3lJeDR5r6I9VCZjTFQ9pGgVg9lYIt4/edit?usp=sharing)
+**Hands-on:** [Your first Jupyter Notebook](https://docs.google.com/presentation/d/1hY-ac7i7hbFWsu2moMPkelQisgk5GFdgMYT9_4Z_-YU/edit?usp=sharing)
 
-**Reference: _[Chapter 2: Where to Get Your Data ](https://drive.google.com/file/d/1RYrmhh9yK89rVDczMM15W-gWOM2Jo7zT/view?usp=sharing)_**
+**Reference:** [Chapter 2: Where to Get Your Data ](https://drive.google.com/file/d/1RYrmhh9yK89rVDczMM15W-gWOM2Jo7zT/view?usp=sharing)
 
 **At home:**
-
 Homework 3: Jupyter Notebook Exercise
 
 
 ### 1.4 — Week 4
-
 _September 18, 2019_
 
 **Data gathering via APIs (structuring data, loops, csv.writer)**
 
 
-**Hands-on:**[API Call](https://docs.google.com/presentation/d/1HYNKLghiJmbWnKjpnrBuN0WOvcZnTUf5Tl17mPwsBGY/edit?usp=sharing)  / API scraping (2 hours, one hour explanation, one hour writing)
+**Hands-on:** [API Call](https://docs.google.com/presentation/d/1HYNKLghiJmbWnKjpnrBuN0WOvcZnTUf5Tl17mPwsBGY/edit?usp=sharing)  / [API scraping](https://docs.google.com/presentation/d/1cLq_bhxVyyQQHalLWGDJS8DQ1m5bOMJIogSpdg7IYpc/edit?usp=sharing) (2 hours, one hour explanation, one hour writing)
 
-[https://github.com/lamthuyvo/cuny-advanced-data-journalism/blob/master/exercises/lesson10_11/notebooks/01-youtube-scraper.ipynb](https://github.com/lamthuyvo/cuny-advanced-data-journalism/blob/master/exercises/lesson10_11/notebooks/01-youtube-scraper.ipynb)
-
-**Reference: _[Chapter 3: Getting Data with Code](https://docs.google.com/document/d/1xbysbAxJaYrz_I9r_ktvRsJdgnJOZN1MxUdWWbbBtsY/edit?usp=sharing)_**
+**Reference:** _[Chapter 3: Getting Data with Code](https://docs.google.com/document/d/1xbysbAxJaYrz_I9r_ktvRsJdgnJOZN1MxUdWWbbBtsY/edit?usp=sharing)_
 
 **At home:**
-
-Homework 4: Download your Facebook archive
-
+Homework 4: Download your Facebook archive,
 Assignment 1 pitch is due!
 
 Read at home:
-
 [https://www.buzzfeednews.com/article/lamvo/facebook-filter-bubbles-liberal-daughter-conservative-mom](https://www.buzzfeednews.com/article/lamvo/facebook-filter-bubbles-liberal-daughter-conservative-mom)
 
 
-### 1.5— Week 5  
+### 1.5— Week 5
 
 _September 25, 2019_
 
 **Introduction to scraping — scraping your Facebook archive**
 
+**Lecture:** [Social data a primer — quantified selfies](https://docs.google.com/presentation/d/1fOlIpbvG7jX5NL4vWQzaVsbdoUutyzXDv-1Qze0oz-s/edit?usp=sharing)
 
-**Lecture:**[Social data a primer — quantified selfies](https://docs.google.com/presentation/d/1fOlIpbvG7jX5NL4vWQzaVsbdoUutyzXDv-1Qze0oz-s/edit?usp=sharing)
+**Hands-on:** [Scraping a local directory ](https://docs.google.com/presentation/d/1cd4Pyv6-Pw4K-lSaS26gAMtIWsJcFm8z405cn0RwRUg/edit?usp=sharing)
 
-**Hands-on:** Scraping a local directory
+**Reference:** **[Chapter 4: Scraping Your Own Facebook Data](https://docs.google.com/document/d/15mzqqNuOUMIu3o39Vk3OdgimzcOsFQNW5R5pYwsjU7Q/edit?usp=sharing)**
 
-**Reference:** [Chapter 4: Scraping Your Own Facebook Data](https://docs.google.com/document/d/15mzqqNuOUMIu3o39Vk3OdgimzcOsFQNW5R5pYwsjU7Q/edit?usp=sharing)
-
-**At home:**
-
-Read at home: [https://gizmodo.com/people-you-may-know-a-controversial-facebook-features-1827981959](https://gizmodo.com/people-you-may-know-a-controversial-facebook-features-1827981959)
+**At home:** Read at home:[https://gizmodo.com/people-you-may-know-a-controversial-facebook-features-1827981959](https://gizmodo.com/people-you-may-know-a-controversial-facebook-features-1827981959)
 
 
 ### 1.6 — Week 6
@@ -217,13 +207,13 @@ _October 2, 2019_
 
 **Scraping a Live Site**
 
-**Lecture:** [Ethics of Scraping Live Websites  ](https://docs.google.com/presentation/d/19MYeXtO1dbdOitHpD1uX2TAmGp-kFwkDRX8WvBxenbE/edit?usp=sharing)
+**Lecture:** [Ethics of Scraping Live Websites ](https://docs.google.com/presentation/d/19MYeXtO1dbdOitHpD1uX2TAmGp-kFwkDRX8WvBxenbE/edit?usp=sharing)
 
-**Hands-on:** Scraping Wikipedia
+**Hands-on:** [Scraping Wikipedia ](https://docs.google.com/presentation/d/1uaUXduCwL4XiqWVkUSFIZqMMKNzubG-kdi2ryzR7CXI/edit?usp=sharing)
 
 **Reference:** [Chapter 5: Scraping a Live Site](https://docs.google.com/document/d/1WaIxA9QorKcTkfPapl02l2amISxEICTsgl9wFR1ozoo/edit?usp=sharing)
 
-**At home:** \
+**At home:**
 Homework 5: Scraping review
 
 
@@ -231,21 +221,14 @@ Homework 5: Scraping review
 
 _October 23, 2019_
 
-
 **FOIA for data, algorithms, schemata and other weird Internet things**
-
 
 **Lecture:** [What is FOIA](https://docs.google.com/presentation/d/1xav2GgXJAbD2EG0-mDrnupjr3dLXPsf7Hgxy5UGClX8/edit?usp=sharing)
 
 **Hands-on:** [Write a FOIA request to the FTC](https://docs.google.com/presentation/d/1Ndf2AgD2Qpr-AX-B3tVLwngbNtuu5618GkAQBf1ImGU/edit?usp=sharing)
 
 **At home:**
-
-Homework 6:
-
-Log your FOIA request
-
-Assignment 1 final story is due!
+Homework 6: Log your FOIA request, Assignment 1 final story is due!
 
 Read: [https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
@@ -256,22 +239,21 @@ Read: [https://www.propublica.org/article/machine-bias-risk-assessments-in-crimi
 
 
 
-#### Data Analysis
+#### Data Analysis {#data-analysis}
 
 
 ### 2.1 — Week 8
 
 _October 30, 2019_
 
-**Introduction to data exploration with Jupyter Notebooks and  Pandas**
+**Introduction to data exploration with Jupyter Notebooks and Pandas **
 
 
-**Lecture:**[Finding stories in your data](https://docs.google.com/presentation/d/1QxdZFf3OmykG65EjMbPZMOtEyFbPVjrLEACssuDsbgo/edit?usp=sharing)** /**[Reproducibility](https://docs.google.com/presentation/d/1hq_H_qvAa7z062N4hpCsxaNpD26LQ_Lufa6GajX83Vs/edit?usp=sharing) (sample methodology: [https://github.com/lamthuyvo/cuny-advanced-data-journalism/tree/master/exercises/lesson12](https://github.com/lamthuyvo/cuny-advanced-data-journalism/tree/master/exercises/lesson12))
+**Lecture:** [The Art of Debugging](https://docs.google.com/presentation/d/12-FSHf7c_-eOIZAjLvg7RmJGvfuQaXUaP0bUX8eu4qY/edit?usp=sharing)
 
-**Hands-on:******[Jupyter Notebooks (What’s my data edition) — data exploration ](https://docs.google.com/presentation/d/1c6BD3yOeWC99YoETkXUp3qMExWf-zsM7HrpJyWpZ2cw/edit?usp=sharing)
+**Hands-on:** [Jupyter Notebooks (What’s my data edition) — data exploration ](https://docs.google.com/presentation/d/1c6BD3yOeWC99YoETkXUp3qMExWf-zsM7HrpJyWpZ2cw/edit?usp=sharing)
 
 **At home:**
-
 Homework 7: Pandas
 
 
@@ -279,15 +261,13 @@ Homework 7: Pandas
 
 _November 6, 2019_
 
-**Why people suck - data problems and how to deal with them**
-
+**Why people suck - data problems and how to deal with them **
 
 **Lecture:** [Why people suck — Data problems other people created for you and how you can solve them ](https://docs.google.com/presentation/d/1idzRsag6FrNq_olOUxfIu5DM8HRIRop_nTdZPSP_gPI/edit?usp=sharing)
 
-**Hands-on:**Data Cleaning
+**Hands-on:** [Data Cleaning](https://docs.google.com/presentation/d/1fSIPnwN2Sa45_ZXgF4s2QASEHtjTG0JNqmZvWKB9x5A/edit)
 
 **At home:**
-
 Homework 8: Cleaning data
 
 
@@ -297,14 +277,13 @@ _November 13, 2019_
 
 **Data aggregation — basic math in pandas (also, functions!)**
 
+**Lecture**: [Finding stories in data](https://docs.google.com/presentation/d/1ivT-gp_wQzLyCso7O0QnsyCbOen7XkSldCdYYB7IGfA/edit?usp=sharing)
 
 **Hands-on:** [Pandas — filtering, sorting, basic math, frequencies and distribution ](https://docs.google.com/presentation/d/1BmFafiQ3FvFGVvZdO7Svyc6cf83OKS-U5RmISxThcjE/edit?usp=sharing)(2 hours)
 
-**Reference: _[Chapter 9: Finding Trends in Reddit](https://docs.google.com/document/d/1EwzsMSKchSXBK1ub5QrXm2YgzCOWRO6cR6K3myYQ3TQ/edit?usp=sharing)_**
+**Reference:** _[Chapter 9: Finding Trends in Reddit](https://docs.google.com/document/d/1EwzsMSKchSXBK1ub5QrXm2YgzCOWRO6cR6K3myYQ3TQ/edit?usp=sharing)_
 
-**At home:**
-
-Assignment 2 pitch due
+**At home:** Assignment 2 pitch due!
 
 
 ### 2.4 — Week 11
@@ -314,14 +293,14 @@ _November 20, 2019_
 **Resampling data over time (Pandas and Matplotlib)**
 
 
-**Lecture:** Let’s get visual
+
+**Lecture:** [Understanding data with visuals](https://docs.google.com/presentation/d/1Adt6X3lkdqt-njRlbIrIh-MR6fVbtN2djMWtxdQrePs/edit?usp=sharing)
 
 **Hands-on:** Resampling data and plotting it with pandas and Matplotlib_ _
 
-**Reference:** [Chapter 10: Measuring the Twitter Activity of Political Actors](https://docs.google.com/document/d/1HiwwLD_1ILxwtsFro4C81ThIB4WBwfZ4zNQr2xOlxTw/edit?usp=sharing)
+**Reference:** _[Chapter 10: Measuring the Twitter Activity of Political Actors](https://docs.google.com/document/d/1HiwwLD_1ILxwtsFro4C81ThIB4WBwfZ4zNQr2xOlxTw/edit?usp=sharing)_
 
 **At home:**
-
 Read at home: [https://www.thenation.com/article/sweetgreen-appropriation-rap-segregation/](https://www.thenation.com/article/sweetgreen-appropriation-rap-segregation/)
 
 
@@ -332,11 +311,10 @@ _November 27, 2019_
 **Merging with Pandas**
 
 
+
 **Lecture:** [When two become one - the power of merging data sets](https://docs.google.com/presentation/d/1AC__gqnCG1kXAbcXRMMSSJzyzRd3oMRcCWa8KC9MNRo/edit?usp=sharing)
 
-**Hands-on:** Merging with Pandas
-
-**At home:**
+**Hands-on:** [Merging with Pandas](https://docs.google.com/presentation/d/1pLscuaeo1WkFhtlKNZgVdU_J1x0Q2wtuKxLuAZ5ttT4/edit?usp=sharing)
 
 
 ### 2.6 — Week 13
@@ -345,28 +323,24 @@ _December 4, 2019_
 
 **The future**
 
-
 **Lecture:** [The New Frontiers](https://docs.google.com/presentation/d/1CuONPZLQzg6V4tm1PG0sgCfbxhrxmnY_eRr6UHknEak/edit?usp=sharing)
 
-**Hands-on:** Spacy text analysis
+**Hands-on:** [Spacy text analysis ](https://docs.google.com/presentation/d/1RJE-8DCn4pvcqBt1gDi_Cuwm_aeYAvPWscapNLDV2GQ/edit?usp=sharing)
 
 **At home:**
 
 
-
 ### Final class!  Week 14
-
 _December 11, 2019_
 
 Present your stories!
 
 - Presentations
-
 - Class evaluations
 
 
 
-##**<span style="text-decoration:underline;">Class rules</span>**
+## **<span style="text-decoration:underline;">Class rules</span>**
 
 **Students-Instructors contract:** The success of this course depends on the level of commitment of each student. That is, it is up to each student to carry out their class work and assignments as well as to contribute to their team’s reporting project and speak up about any doubts or concerns you may have. In return, the instructors will do their best to provide a clear lesson plan, give students timely feedback and advice them to achieve the course’s expected outcomes.
 
@@ -389,7 +363,7 @@ Present your stories!
 **Code of honor.** This class follows the guidelines of the Student Handbook of our school. More so, in journalism plagiarism or falsification of data, sources and facts are serious crimes that can lead to failing this class. You may also be the subject of suspension, probation or expulsion, pending the decision of the School administration.
 
 
-##**<span style="text-decoration:underline;">Assignments and Due Dates</span>**
+## **<span style="text-decoration:underline;">Assignments and Due Dates</span>**
 
 
 ### 2 story assignments (1 pitch and one final story per assignment): 80 points
@@ -564,12 +538,12 @@ December 6
 
 
 
-##**<span style="text-decoration:underline;">Grading</span>**
+## **<span style="text-decoration:underline;">Grading</span>**
 
 
-###**Rubric**
+### **Rubric**
 
-**The  story pitches makes up 80% of your grade, each 20%.**
+**The story pitches makes up 80% of your grade, each 20%.**
 Graded as:
 
 
@@ -616,7 +590,7 @@ _Each homework_
 **Total points: 100 = 100%**
 
 
-###**Scale**
+### **Scale**
 
 Final course grades, according to the grading scale used in the CUNY Graduate School of Journalism:
 
@@ -655,7 +629,7 @@ Final course grades, according to the grading scale used in the CUNY Graduate Sc
 *   [Understanding Households and Relationships in Census Data](https://source.opennews.org/articles/understanding-households-and-relationships-census-/), by Anthony DeBarros
 
 
-##**Further reading**
+## **Further reading**
 
 Your class readings will be provided in class. Find some more recommended books here:
 
@@ -678,7 +652,7 @@ Your class readings will be provided in class. Find some more recommended books 
 Instructors will also share tip sheets, stories and tutorials for specific lessons.
 
 
-##**Coaches**
+## **Coaches**
 
 You'll find [all the coaches here](https://www.journalism.cuny.edu/current-students/coaching-hours/).
 
