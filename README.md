@@ -130,7 +130,7 @@ Homework 1:  What is data journalism according to you, find 4 definitions
 
 
 
-#### Data Mining {#data-mining}
+#### Data Mining
 
 
 ### 1.2 — Week 2
@@ -239,7 +239,7 @@ Read: [https://www.propublica.org/article/machine-bias-risk-assessments-in-crimi
 
 
 
-#### Data Analysis {#data-analysis}
+#### Data Analysis
 
 
 ### 2.1 — Week 8
