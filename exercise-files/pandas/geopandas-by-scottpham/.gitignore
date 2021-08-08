@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_S*
+notebooks/teaching*
+notes.md
+data/counties/
+data/states/
+notebooks/*.html
+venv
