@@ -48,3 +48,4 @@ exercise-files/pandas/data_analysis_with_pandas/data/askscience_submissions.csv
 
 exercise-files/scrapers/venv
 exercise-files/scrapers/data/youtube-api-key.txt
+exercise-files/scrapers/data/census-api-key.txt

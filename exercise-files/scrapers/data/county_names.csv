@@ -1,0 +1,87 @@
+county_name,full_county_geocode,state_code,county_code,metro_area_name,city,state
+"District of Columbia, DC",11001,11,001,Washington-Arlington-Alexandria,Washington,DC
+"Calvert, MD",24009,24,009,Washington-Arlington-Alexandria,Washington,DC
+"Charles, MD",24017,24,017,Washington-Arlington-Alexandria,Washington,DC
+"Frederick, MD",24021,24,021,Washington-Arlington-Alexandria,Washington,DC
+"Montgomery, MD",24031,24,031,Washington-Arlington-Alexandria,Washington,DC
+"Prince George's, MD",24033,24,033,Washington-Arlington-Alexandria,Washington,DC
+"Arlington, VA",51013,51,013,Washington-Arlington-Alexandria,Washington,DC
+"Clarke, VA",51043,51,043,Washington-Arlington-Alexandria,Washington,DC
+"Culpeper, VA",51047,51,047,Washington-Arlington-Alexandria,Washington,DC
+"Fauquier, VA",51061,51,061,Washington-Arlington-Alexandria,Washington,DC
+"Loudoun, VA",51107,51,107,Washington-Arlington-Alexandria,Washington,DC
+"Madison, VA",51113,51,113,Washington-Arlington-Alexandria,Washington,DC
+"Rappahannock, VA",51157,51,157,Washington-Arlington-Alexandria,Washington,DC
+"Stafford, VA",51179,51,179,Washington-Arlington-Alexandria,Washington,DC
+"Warren, VA",51187,51,187,Washington-Arlington-Alexandria,Washington,DC
+"Alexandria (Independent City), VA",51510,51,510,Washington-Arlington-Alexandria,Washington,DC
+"Fairfax, Fairfax City + Falls Church, VA",51919,51,919,Washington-Arlington-Alexandria,Washington,DC
+"Prince William, Manassas + Manassas Park, VA",51942,51,942,Washington-Arlington-Alexandria,Washington,DC
+"Spotsylvania + Fredericksburg, VA",51951,51,951,Washington-Arlington-Alexandria,Washington,DC
+"Jefferson, WV",54037,54,037,Washington-Arlington-Alexandria,Washington,DC
+"Anne Arundel, MD",24003,24,003,Baltimore-Columbia-Towson,Baltimore,MD
+"Baltimore, MD",24005,24,005,Baltimore-Columbia-Towson,Baltimore,MD
+"Carroll, MD",24013,24,013,Baltimore-Columbia-Towson,Baltimore,MD
+"Harford, MD",24025,24,025,Baltimore-Columbia-Towson,Baltimore,MD
+"Howard, MD",24027,24,027,Baltimore-Columbia-Towson,Baltimore,MD
+"Queen Anne's, MD",24035,24,035,Baltimore-Columbia-Towson,Baltimore,MD
+"Baltimore (Independent City), MD",24510,24,510,Baltimore-Columbia-Towson,Baltimore,MD
+"Barrow, GA",13013,13,013,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Bartow, GA",13015,13,015,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Butts, GA",13035,13,035,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Carroll, GA",13045,13,045,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Cherokee, GA",13057,13,057,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Clayton, GA",13063,13,063,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Cobb, GA",13067,13,067,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Coweta, GA",13077,13,077,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Dawson, GA",13085,13,085,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"DeKalb, GA",13089,13,089,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Douglas, GA",13097,13,097,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Fayette, GA",13113,13,113,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Forsyth, GA",13117,13,117,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Fulton, GA",13121,13,121,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Gwinnett, GA",13135,13,135,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Haralson, GA",13143,13,143,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Heard, GA",13149,13,149,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Henry, GA",13151,13,151,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Jasper, GA",13159,13,159,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Lamar, GA",13171,13,171,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Meriwether, GA",13199,13,199,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Morgan, GA",13211,13,211,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Newton, GA",13217,13,217,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Paulding, GA",13223,13,223,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Pickens, GA",13227,13,227,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Pike, GA",13231,13,231,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Rockdale, GA",13247,13,247,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Spalding, GA",13255,13,255,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Walton, GA",13297,13,297,Atlanta-Sandy Springs-Alpharetta,Atlanta,GA
+"Alameda, CA",06001,06,001,San Francisco-Oakland-Berkeley,Oakland,CA
+"Contra Costa, CA",06013,06,013,San Francisco-Oakland-Berkeley,Oakland,CA
+"Marin, CA",06041,06,041,San Francisco-Oakland-Berkeley,Oakland,CA
+"San Francisco, CA",06075,06,075,San Francisco-Oakland-Berkeley,Oakland,CA
+"San Mateo, CA",06081,06,081,San Francisco-Oakland-Berkeley,Oakland,CA
+"Bergen, NJ",34003,34,003,New York-Newark-Jersey City,New York City,NY
+"Essex, NJ",34013,34,013,New York-Newark-Jersey City,New York City,NY
+"Hudson, NJ",34017,34,017,New York-Newark-Jersey City,New York City,NY
+"Hunterdon, NJ",34019,34,019,New York-Newark-Jersey City,New York City,NY
+"Middlesex, NJ",34023,34,023,New York-Newark-Jersey City,New York City,NY
+"Monmouth, NJ",34025,34,025,New York-Newark-Jersey City,New York City,NY
+"Morris, NJ",34027,34,027,New York-Newark-Jersey City,New York City,NY
+"Ocean, NJ",34029,34,029,New York-Newark-Jersey City,New York City,NY
+"Passaic, NJ",34031,34,031,New York-Newark-Jersey City,New York City,NY
+"Somerset, NJ",34035,34,035,New York-Newark-Jersey City,New York City,NY
+"Sussex, NJ",34037,34,037,New York-Newark-Jersey City,New York City,NY
+"Union, NJ",34039,34,039,New York-Newark-Jersey City,New York City,NY
+"Bronx, NY",36005,36,005,New York-Newark-Jersey City,New York City,NY
+"Dutchess, NY",36027,36,027,New York-Newark-Jersey City,New York City,NY
+"Kings, NY",36047,36,047,New York-Newark-Jersey City,New York City,NY
+"Nassau, NY",36059,36,059,New York-Newark-Jersey City,New York City,NY
+"New York, NY",36061,36,061,New York-Newark-Jersey City,New York City,NY
+"Orange, NY",36071,36,071,New York-Newark-Jersey City,New York City,NY
+"Putnam, NY",36079,36,079,New York-Newark-Jersey City,New York City,NY
+"Queens, NY",36081,36,081,New York-Newark-Jersey City,New York City,NY
+"Richmond, NY",36085,36,085,New York-Newark-Jersey City,New York City,NY
+"Rockland, NY",36087,36,087,New York-Newark-Jersey City,New York City,NY
+"Suffolk, NY",36103,36,103,New York-Newark-Jersey City,New York City,NY
+"Westchester, NY",36119,36,119,New York-Newark-Jersey City,New York City,NY
+"Pike, PA",42103,42,103,New York-Newark-Jersey City,New York City,NY
