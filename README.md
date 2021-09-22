@@ -6,18 +6,16 @@
 
 *   CRN: JOUR76006
 *   Credits: 3 credits
-*   Semester: Fall 2019
+*   Semester: Fall 2021
 *   Duration: 14 weeks
-*   When/where: Wednesdays 5:30 pm to 8:20 pm in Room 442
-*   Instructors: Lam Thuy Vo, Madeleine Varner
+*   Instructors: Lam Thuy Vo
 
 **Communications channels and office hours:**
 
 
 
 *   Google Classroom: You will receive feedback, assignments and other information at your Google Classroom
-*   Email for specific individual questions (lam.vo@journalism.cuny.edu, madeleine.varner@journalism.cuny.edu)
-*   Text messages: for urgent matters only (Lam Vo: 347-977-3784, Madeleine Varner: 216-288-3771)
+*   Email for specific individual questions (lam.vo@journalism.cuny.edu)
 *   Office hours by appointment: request via email.
 
 
@@ -110,8 +108,6 @@ Schedule is subject to be changed by instructors, depending on how well you are 
 
 ### 1.1 — Week 1
 
-_August 28, 2019_
-
 **What’s this course about: Internet data, technology and society**
 
 Introduction and syllabus overview | What is data journalism according to you, find 4 definitions
@@ -135,11 +131,8 @@ Homework 1:  What is data journalism according to you, find 4 definitions
 
 ### 1.2 — Week 2
 
-_September 4, 2019_
 
 **Introduction to Python and the command line interface**
-
-
 
 **Lecture:** [Python in Journalism](https://docs.google.com/presentation/d/1m7dCJEcSHoK5Syri1FOWail4NOh_6mQaZnky7JwiEOY/edit?usp=sharing) The command-line tool, Python and the interactive shell
 
@@ -152,11 +145,8 @@ _September 4, 2019_
 
 ### 1.3 — Week 3
 
-_September 11, 2019_
 
 **Jupyter Notebooks — how to set them up (also: APIs and data structures)**
-
-
 
 **Lecture:** [Investigating the social web ](https://docs.google.com/presentation/d/1zijBZ2Jj-hpGugAHBmT1TxL0L2PctzQezk8h4GhKkBk/edit?usp=sharing)
 
@@ -169,10 +159,8 @@ Homework 3: Jupyter Notebook Exercise
 
 
 ### 1.4 — Week 4
-_September 18, 2019_
 
 **Data gathering via APIs (structuring data, loops, csv.writer)**
-
 
 **Hands-on:** [API Call](https://docs.google.com/presentation/d/1HYNKLghiJmbWnKjpnrBuN0WOvcZnTUf5Tl17mPwsBGY/edit?usp=sharing)  / [API scraping](https://docs.google.com/presentation/d/1cLq_bhxVyyQQHalLWGDJS8DQ1m5bOMJIogSpdg7IYpc/edit?usp=sharing) (2 hours, one hour explanation, one hour writing)
 
@@ -188,8 +176,6 @@ Read at home:
 
 ### 1.5— Week 5
 
-_September 25, 2019_
-
 **Introduction to scraping — scraping your Facebook archive**
 
 **Lecture:** [Social data a primer — quantified selfies](https://docs.google.com/presentation/d/1fOlIpbvG7jX5NL4vWQzaVsbdoUutyzXDv-1Qze0oz-s/edit?usp=sharing)
@@ -202,8 +188,6 @@ _September 25, 2019_
 
 
 ### 1.6 — Week 6
-
-_October 2, 2019_
 
 **Scraping a Live Site**
 
@@ -218,8 +202,6 @@ Homework 5: Scraping review
 
 
 ### 1.7 — Week 7
-
-_October 23, 2019_
 
 **FOIA for data, algorithms, schemata and other weird Internet things**
 
@@ -244,8 +226,6 @@ Read: [https://www.propublica.org/article/machine-bias-risk-assessments-in-crimi
 
 ### 2.1 — Week 8
 
-_October 30, 2019_
-
 **Introduction to data exploration with Jupyter Notebooks and Pandas **
 
 
@@ -259,7 +239,6 @@ Homework 7: Pandas
 
 ### 2.2 — Week 9
 
-_November 6, 2019_
 
 **Why people suck - data problems and how to deal with them **
 
@@ -272,8 +251,6 @@ Homework 8: Cleaning data
 
 
 2.3 — Week 10
-
-_November 13, 2019_
 
 **Data aggregation — basic math in pandas (also, functions!)**
 
@@ -288,11 +265,8 @@ _November 13, 2019_
 
 ### 2.4 — Week 11
 
-_November 20, 2019_
 
 **Resampling data over time (Pandas and Matplotlib)**
-
-
 
 **Lecture:** [Understanding data with visuals](https://docs.google.com/presentation/d/1Adt6X3lkdqt-njRlbIrIh-MR6fVbtN2djMWtxdQrePs/edit?usp=sharing)
 
@@ -306,10 +280,7 @@ Read at home: [https://www.thenation.com/article/sweetgreen-appropriation-rap-se
 
 ### 2.5— Week 12
 
-_November 27, 2019_
-
 **Merging with Pandas**
-
 
 
 **Lecture:** [When two become one - the power of merging data sets](https://docs.google.com/presentation/d/19GvOkI4GozUGNHBl1wYSffSR9uJHczWvNADN1vZJ8nI/edit?usp=sharing)
@@ -318,8 +289,6 @@ _November 27, 2019_
 
 
 ### 2.6 — Week 13
-
-_December 4, 2019_
 
 **The future**
 
@@ -331,7 +300,6 @@ _December 4, 2019_
 
 
 ### Final class!  Week 14
-_December 11, 2019_
 
 Present your stories!
 
