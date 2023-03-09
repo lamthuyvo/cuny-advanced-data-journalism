@@ -67,7 +67,7 @@ the full Xcode package is already installed.
 Install Homebrew by pasting this command into your terminal and then hitting "enter."
 
 ```
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 
@@ -117,24 +117,6 @@ source ~/.bash_profile
 You'll only need to source the bash_profile since we're editing the file right now. It's the equivalent of quitting your terminal application and opening it up again, but source lets you soldier forward and setup Python.
 
 
-### Set up SSH for Github
-
-Github has written a great guide for setting up SSH authentication for Github. You will want to do this so Github knows about your computer and will allow you to push to repositories you have access to.
-
-Read that tutorial [here](https://help.github.com/articles/generating-ssh-keys). Do not download the native app. Start at "Step 1: Check for SSH keys".
-
-Configure the default identity
-
-It's nice to have your name and email show up correctly in the commit log. To make sure this information is correct, run:
-
-
-```
-git config --global user.email "$YOUR_EMAIL@npr.org"
-git config --global user.name "$YOUR_NAME"
-```
-
-
-
 ### Text editors — Atom
 
 While I prefer vim (see below) as my editor of choice, many people prefer an editor that is less dependent on memorizing keystrokes and has a user interface that you can interact with using your mouse or trackpad. If this is you, [Atom](https://atom.io/) is a good choice because it's free and intuitive to use with its defaults, yet highly customizable.
@@ -175,4 +157,21 @@ As when running any script downloaded from the web, ensure that you have reviewe
 
 ```
 python get-pip.py
+```
+
+
+### Set up SSH for Github (optional)
+
+Github has written a great guide for setting up SSH authentication for Github. You will want to do this so Github knows about your computer and will allow you to push to repositories you have access to.
+
+Read that tutorial [here](https://help.github.com/articles/generating-ssh-keys). Do not download the native app. Start at "Step 1: Check for SSH keys".
+
+Configure the default identity
+
+It's nice to have your name and email show up correctly in the commit log. To make sure this information is correct, run:
+
+
+```
+git config --global user.email "$YOUR_EMAIL@npr.org"
+git config --global user.name "$YOUR_NAME"
 ```
