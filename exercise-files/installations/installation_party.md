@@ -57,9 +57,6 @@ the full Xcode package is already installed.
 
 
 
-
-
-
 ### Homebrew
 
 [Homebrew](http://brew.sh/) is like the Mac app store for programming tools. You can access Homebrew via the terminal, ([like all good things](http://www.amazon.com/Beginning-was-Command-Line-Neal-Stephenson/dp/0380815931)). Inspiration for this section comes from Kenneth Reitz's excellent [Python guide](http://docs.python-guide.org/en/latest/starting/install/osx/).
@@ -119,7 +116,7 @@ You'll only need to source the bash_profile since we're editing the file right n
 
 ### Text editors — Atom
 
-While I prefer vim (see below) as my editor of choice, many people prefer an editor that is less dependent on memorizing keystrokes and has a user interface that you can interact with using your mouse or trackpad. If this is you, [Atom](https://atom.io/) is a good choice because it's free and intuitive to use with its defaults, yet highly customizable.
+While I prefer vim (see below) as my editor of choice, many people prefer an editor that is less dependent on memorizing keystrokes and has a user interface that you can interact with using your mouse or trackpad. If this is you, [Sublime](https://www.sublimetext.com/) is a good choice because it's free and intuitive to use with its defaults.
 
 I have this installed on my system in case I'm pairing with someone who's not familiar with vim.
 
