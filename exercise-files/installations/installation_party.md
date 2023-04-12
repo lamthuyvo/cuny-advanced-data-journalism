@@ -114,7 +114,7 @@ source ~/.bash_profile
 You'll only need to source the bash_profile since we're editing the file right now. It's the equivalent of quitting your terminal application and opening it up again, but source lets you soldier forward and setup Python.
 
 
-### Text editors — Atom
+### Text editors — Sublime
 
 While I prefer vim (see below) as my editor of choice, many people prefer an editor that is less dependent on memorizing keystrokes and has a user interface that you can interact with using your mouse or trackpad. If this is you, [Sublime](https://www.sublimetext.com/) is a good choice because it's free and intuitive to use with its defaults.
 
@@ -137,9 +137,9 @@ Now let’s confirm which version was installed:
 ```
 python3 --version
 ```
-The result should be:
+The result should be a version of Python3 (it can be higher than the result below, most important thing is that it's Python3 and upwards!):
 ```
-Python 3.7.0
+Python 3.9.0
 ```
 ### Pip
 
