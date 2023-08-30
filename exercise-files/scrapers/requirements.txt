@@ -1,1 +1,7 @@
+bs4
+census
+jupyter
+pandas
+pdfplumber
 requests
+us
