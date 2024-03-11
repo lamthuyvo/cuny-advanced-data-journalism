@@ -156,6 +156,11 @@ As when running any script downloaded from the web, ensure that you have reviewe
 python get-pip.py
 ```
 
+### For Jupyter Desktop
+We will be using [Jupyter Desktop](https://github.com/jupyterlab/jupyterlab-desktop) to work with in Python. You can download the app [here](https://github.com/jupyterlab/jupyterlab-desktop/releases/latest/download/JupyterLab-Setup-macOS-x64.dmg). Once you have downloaded the installer, double click on it and open it. This will prompt a window that allows you to drag the app into your application folder.
+
+Once you have installed the app and dragged it in the application folder, you should be able to launch it by double clicking on the icon in your application folder. Note that when you first start up the app, it may prompt you to install Python3 for it. Make sure that you read the notification and follow its instructions!
+
 
 ### Set up SSH for Github (optional)
 
