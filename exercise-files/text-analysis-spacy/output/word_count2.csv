@@ -10,11 +10,11 @@ word,word
 (,1
 ),1
 ",",34
--,3
+-,5
 .,33
 11,1
-25-pound,1
-7-year,1
+25,1
+7,1
 :,1
 ?,1
 Adoption,1
@@ -208,6 +208,7 @@ pets,3
 petted,1
 playing,2
 polydactyl,1
+pound,1
 prefer,2
 pretend,1
 purring,1
@@ -285,6 +286,7 @@ with,7
 works,1
 would,2
 wrote,2
+year,1
 you,8
 young,1
 ’s,5
