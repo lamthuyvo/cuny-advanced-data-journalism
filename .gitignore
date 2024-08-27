@@ -50,3 +50,4 @@ exercise-files/scrapers/venv
 exercise-files/scrapers/data/youtube-api-key.txt
 exercise-files/scrapers/data/census-api-key.txt
 script_tests/
+jupyter/desktop-workspaces
